@@ -9,7 +9,8 @@
     width: 80%;
     display: flex;
     align-items: center;
-    justify-content: url('../img/backgroud.jpg');
+    justify-content: center;
+    background-image: url('../img/backgroud.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
