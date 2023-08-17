@@ -13,6 +13,8 @@
     background-image: url('../img/backgroud.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+
 }
 
 .flip-card {
